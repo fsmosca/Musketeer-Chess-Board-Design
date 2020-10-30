@@ -10,7 +10,7 @@ This is the initial board.
 ***
 
 ### Board 2
-White played its first move, selected an Archbishop.  
+White played its first move, selected an Archbishop. This is the beginning of the piece selection phase.   
 `1. j9i9 or Aj9i9 or Ai9`
 
 ![board2](https://i.imgur.com/K7DFnxo.png)
@@ -26,7 +26,7 @@ Black selected an Elephant.
 ***
 
 ### Board 4
-White copied the piece selected by black's first move.  Can be executed automatically by a GUI.  
+White copied the piece selected by black's first move. Can be executed automatically by a GUI.  
 `2. j5i5 or Ej5i5 or Ei5`
 
 ![board4](https://i.imgur.com/FYcpjDT.png)
@@ -34,7 +34,7 @@ White copied the piece selected by black's first move.  Can be executed automati
 ***
 
 ### Board 5
-Black copied the piece selected by white's first move.  
+Black copied the piece selected by white's first move. This completes the piece selection phase.  
 `2... k0i0 or Ak0i0 or Ai0`
 
 ![board5](https://i.imgur.com/tnOHOdx.png)
@@ -42,7 +42,7 @@ Black copied the piece selected by white's first move.
 ***
 
 ### Board 6
-White played its Archbishop to rank 0.  
+White played its Archbishop to rank 0. This is the beginning of gating preparation phase.  
 `3. i9f0 or Ai9f0 or Af0`
 
 ![board6](https://i.imgur.com/4eaaoPI.png)
@@ -66,7 +66,7 @@ White played its Elephant to rank 0.
 ***
 
 ### Board 9
-Black played its Elephant to rank 9.  
+Black played its Elephant to rank 9. This completes the gating preparation phase.  
 `3... i4e9 or Ei4e9 or Ee9`
 
 ![board7](https://i.imgur.com/QXOr7ER.png)
