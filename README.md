@@ -59,7 +59,7 @@ Black played its Archbishop to rank 9.
 
 ### Board 8
 White played its Elephant to rank 0.  
-`3... i5d0 or Ei5d0 or Ed0`
+`4. i5d0 or Ei5d0 or Ed0`
 
 ![board7](https://i.imgur.com/kfkbVJX.png)
 
@@ -67,7 +67,7 @@ White played its Elephant to rank 0.
 
 ### Board 9
 Black played its Elephant to rank 9. This completes the gating preparation phase.  
-`3... i4e9 or Ei4e9 or Ee9`
+`4... i4e9 or Ei4e9 or Ee9`
 
 ![board7](https://i.imgur.com/QXOr7ER.png)
 
