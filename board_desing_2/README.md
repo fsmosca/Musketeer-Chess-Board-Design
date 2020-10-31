@@ -34,7 +34,7 @@ White played its first move, selected an Archbishop. This is the beginning of th
 Black selected an Elephant.  
 `1... `
 
-`![board3](https://i.imgur.com/5zAjFEO.png)`
+![board3](https://i.imgur.com/5zAjFEO.png)
 
 ***
 
