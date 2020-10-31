@@ -9,9 +9,16 @@ The game rules:
 ## A. Board Design 2
 
 ### Board 1
-This is the initial board. The pieces in columns w and z are the available musketeer piece types where each player can choose.
+This is the initial board. The pieces in columns w and z are the available musketeer piece types where each player can choose.  
 
-![initial_board](https://i.imgur.com/gDCGOpd.png)
+#### Game Phases
+* Piece selection  
+  * All pieces selected will enter the green boxes
+* Gating preparation  
+  * All pieces from green boxes will enter the yellow boxes
+* Normal chess game phase
+
+![initial_board](https://i.imgur.com/TU9LWsT.png)
 
 ***
 
