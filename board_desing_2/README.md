@@ -6,12 +6,12 @@ The game rules:
 * [Musketeer Chess link 2 official site](https://musketeerchess.net/site/game-rules/)
 * [Musketeer Chess Github](https://github.com/fsmosca/musketeer-chess#j-example-game)
 
-## A. Board Desing 2
+## A. Board Design 2
 
 ### Board 1
 This is the initial board. The pieces in columns j and k are the available musketeer piece types where each player can choose.
 
-![initial_board](https://i.imgur.com/X4o7cKQ.png)
+![initial_board](https://i.imgur.com/gDCGOpd.png)
 
 ***
 
