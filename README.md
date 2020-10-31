@@ -32,7 +32,7 @@ Black selected an Elephant.
 ***
 
 ### Board 4
-White copied the piece selected by black's first move. Can be executed automatically by a GUI.  
+White selected the piece that was selected by black in the 1st move. This is forced. Can be executed automatically by a GUI.  
 `2. j5i5 or Ej5i5 or Ei5`
 
 ![board4](https://i.imgur.com/FYcpjDT.png)
@@ -40,7 +40,7 @@ White copied the piece selected by black's first move. Can be executed automatic
 ***
 
 ### Board 5
-Black copied the piece selected by white's first move. This completes the piece selection phase.  
+Black selected the piece that was selected by white in the 1st move. This is forced. Can be executed automatically by a GUI. This completes the piece selection phase.  
 `2... k0i0 or Ak0i0 or Ai0`
 
 ![board5](https://i.imgur.com/tnOHOdx.png)
