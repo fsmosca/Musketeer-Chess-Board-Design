@@ -17,9 +17,9 @@ This is the initial board. The pieces in columns w and z are the available muske
 
 ### Board 2
 White played its first move, selected an Archbishop. This is the beginning of the piece selection phase.   
-`1. `
+`1. z10y10 or Az10y10 or Ay10`
 
-`![board2](https://i.imgur.com/K7DFnxo.png)`
+![board2](https://i.imgur.com/DJpPBIq.png)
 
 ***
 
