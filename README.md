@@ -1,9 +1,15 @@
 # Musketeer Chess Board Design
+An attempt to create a board design for musketeer chess variant.
+
+The game rules:  
+* [Musketeer Chess link 1 official site](https://musketeerchess.net/games/musketeer/rules/rules-short.php)
+* [Musketeer Chess link 2 official site](https://musketeerchess.net/site/game-rules/)
+* [Musketeer Chess Github](https://github.com/fsmosca/musketeer-chess#j-example-game)
 
 ## A. Boards
 
 ### Board 1
-This is the initial board.
+This is the initial board. The pieces in columns j and k are the available musketeer piece types where each player can choose.
 
 ![initial_board](https://i.imgur.com/wOzDfX0.png)
 
