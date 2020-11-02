@@ -18,7 +18,7 @@ The game rules:
 * [Design 2](https://github.com/fsmosca/Musketeer-Chess-Board-Design/tree/main/board_design_2)
 
 #### Initial board
-![bd2](https://i.imgur.com/TU9LWsT.png)
+![bd2](https://i.imgur.com/yjPXfX9.png)
 
 ***
 
