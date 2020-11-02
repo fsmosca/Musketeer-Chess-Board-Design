@@ -32,7 +32,7 @@ White played its first move, selected an Archbishop. This is the beginning of th
 
 ### Board 3
 Black selected an Elephant.  
-`1... `
+`1... w5x5 or Ew5x5 or Ex5`
 
 ![board3](https://i.imgur.com/5zAjFEO.png)
 
