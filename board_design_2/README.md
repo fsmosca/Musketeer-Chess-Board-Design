@@ -74,7 +74,7 @@ Black played its Archbishop to rank 9.
 White played its Elephant to rank 0.  
 `4. `
 
-![board7](https://i.imgur.com/QJmZ5hm.png)
+![board8](https://i.imgur.com/QJmZ5hm.png)
 
 ***
 
@@ -82,7 +82,7 @@ White played its Elephant to rank 0.
 Black played its Elephant to rank 9. This completes the gating preparation phase.  
 `4... `
 
-`![board7](https://i.imgur.com/QXOr7ER.png)`
+![board9](https://i.imgur.com/dSf9jmu.png)
 
 ***
 
