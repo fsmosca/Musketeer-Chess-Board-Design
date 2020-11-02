@@ -86,6 +86,13 @@ Black played its Elephant to rank 9. This completes the gating preparation phase
 
 ***
 
+### Board 9.1
+The GUI may now update the board to 10x8 board, showing only the locations of musketter piece `from squares`.
+
+![board9.1](https://i.imgur.com/ozI0mHz.png)
+
+***
+
 ## B. Credits
 * [Board Painter](https://github.com/jcfrog/board-painter)
 * [Musketeer Chess](https://musketeerchess.net/tools/boardpainter/index.php)
