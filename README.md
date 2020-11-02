@@ -8,7 +8,7 @@ The game rules:
 
 ## A. Board Designs
 * [Design 1](https://github.com/fsmosca/Musketeer-Chess-Board-Design/tree/main/board_design_1)
-* [Design 2](https://github.com/fsmosca/Musketeer-Chess-Board-Design/tree/main/board_desing_2)
+* [Design 2](https://github.com/fsmosca/Musketeer-Chess-Board-Design/tree/main/board_design_2)
 
 ## B. Credits
 * [Board Painter](https://github.com/jcfrog/board-painter)
