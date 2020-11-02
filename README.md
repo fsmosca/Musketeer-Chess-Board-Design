@@ -7,8 +7,20 @@ The game rules:
 * [Musketeer Chess Github](https://github.com/fsmosca/musketeer-chess#j-example-game)
 
 ## A. Board Designs
+
 * [Design 1](https://github.com/fsmosca/Musketeer-Chess-Board-Design/tree/main/board_design_1)
+
+#### Initial board
+![bd1](https://i.imgur.com/wOzDfX0.png)
+
+***
+
 * [Design 2](https://github.com/fsmosca/Musketeer-Chess-Board-Design/tree/main/board_design_2)
+
+#### Initial board
+![bd2](https://i.imgur.com/TU9LWsT.png)
+
+***
 
 ## B. Credits
 * [Board Painter](https://github.com/jcfrog/board-painter)
