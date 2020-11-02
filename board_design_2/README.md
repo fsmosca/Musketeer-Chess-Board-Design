@@ -74,7 +74,7 @@ Black played its Archbishop to rank 9.
 White played its Elephant to rank 0.  
 `4. `
 
-`![board7](https://i.imgur.com/kfkbVJX.png)`
+![board7](https://i.imgur.com/QJmZ5hm.png)
 
 ***
 
