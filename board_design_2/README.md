@@ -42,15 +42,15 @@ Black selected an Elephant.
 White selected the piece that was selected by black in the 1st move. This is forced. Can be executed automatically by a GUI.  
 `2. `
 
-`![board4](https://i.imgur.com/FYcpjDT.png)`
+![board4](https://i.imgur.com/oVkFYGm.png)
 
 ***
 
 ### Board 5
-Black selected the piece that was selected by white in the 1st move. This is forced. Can be executed automatically by a GUI. This completes the piece selection phase.  
+Black selected the piece that was selected by white in the 1st move. This is forced. Can be executed automatically by a GUI. This completes the piece selection phase. All the selected musketeer piece types are now in columns x and y.  
 `2... `
 
-`![board5](https://i.imgur.com/tnOHOdx.png)`
+![board5](https://i.imgur.com/YLPVSEB.png)
 
 ***
 
