@@ -66,7 +66,7 @@ White played its Archbishop to rank 0. This is the beginning of gating preparati
 Black played its Archbishop to rank 9.  
 `3... `
 
-`![board7](https://i.imgur.com/FEKVzCe.png)`
+![board7](https://i.imgur.com/MVURpf9.png)
 
 ***
 
