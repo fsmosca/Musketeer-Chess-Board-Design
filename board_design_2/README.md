@@ -42,7 +42,7 @@ Black selected an Elephant.
 White selected the piece that was selected by black in the 1st move. This is forced. Can be executed automatically by a GUI.  
 `2. `
 
-![board4](https://i.imgur.com/oVkFYGm.png)
+![board4](https://i.imgur.com/8KBQmYQ.png)
 
 ***
 
