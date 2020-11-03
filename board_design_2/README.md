@@ -58,7 +58,7 @@ Black selected the piece that was selected by white in the 1st move. This is for
 White played its Archbishop to rank 0. This is the beginning of gating preparation phase.  
 `3. `
 
-![board6](https://i.imgur.com/zTiSd9P.png)
+![board6](https://i.imgur.com/tUoAORH.png)
 
 ***
 
