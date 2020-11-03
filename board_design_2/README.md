@@ -50,7 +50,7 @@ White selected the piece that was selected by black in the 1st move. This is for
 Black selected the piece that was selected by white in the 1st move. This is forced. Can be executed automatically by a GUI. This completes the piece selection phase. All the selected musketeer piece types are now in columns x and y.  
 `2... `
 
-![board5](https://i.imgur.com/YLPVSEB.png)
+![board5](https://i.imgur.com/Kgfby2U.png)
 
 ***
 
