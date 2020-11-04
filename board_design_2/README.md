@@ -82,7 +82,7 @@ White played its Elephant to rank 0.
 Black played its Elephant to rank 9. This completes the gating preparation phase.  
 `4... `
 
-![board9](https://i.imgur.com/dSf9jmu.png)
+![board9](https://i.imgur.com/XSLMsnD.png)
 
 ***
 
