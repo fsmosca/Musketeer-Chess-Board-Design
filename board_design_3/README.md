@@ -15,10 +15,15 @@ This is the initial board. The pieces in columns x and y are the available muske
 
 ***
 
-
 ### Board 2
-White played its first move, selected an Archbishop. This is the beginning of the piece selection phase. The first piece selected would go to rank 1.  
+White played its first move, selected an Archbishop. This is the beginning of the piece selection phase. The first piece selected would go to rank 1 for white.  
 `1. y9y1 or Ay9y1 or Ay1`
+
+***
+
+### Board 3
+Black may reply by selecting the Elephant and put it in rank 7.  
+`1... y5x7
 
 
 ## B. Credits
