@@ -38,6 +38,15 @@ White will own the Elephant here to complete its piece selections, note this is 
 
 ![b4](https://i.imgur.com/1B9Kbzf.png)
 
+***
+
+### Board 5
+Black will own the Archbishop as well to complete its piece selections, note this is the piece that was selected by White. Can be automatically executed by the a GUI. At this point the gray color will turn into white and black color that is the selected pieces of white will be colored white, and that of black will be colored black.
+
+![b5](https://i.imgur.com/N9TUvGm.png)
+
+***
+
 
 
 ## B. Credits
