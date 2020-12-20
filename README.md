@@ -22,6 +22,12 @@ The game rules:
 
 ***
 
+* [Design 3](https://github.com/fsmosca/Musketeer-Chess-Board-Design/tree/main/board_design_3)
+
+#### Initial board
+![bd3](https://i.imgur.com/yV9l0Sh.png)
+
+
 ## B. Credits
 * [Board Painter](https://github.com/jcfrog/board-painter)
 * [Musketeer Chess](https://musketeerchess.net/tools/boardpainter/index.php)
