@@ -1,4 +1,4 @@
-# Musketeer Chess Board Design 1
+# Musketeer Chess Board Design 3
 An attempt to create a board design for musketeer chess variant.
 
 The game rules:  
@@ -9,9 +9,9 @@ The game rules:
 ## A. Boards
 
 ### Board 1
-This is the initial board. The pieces in columns j and k are the available musketeer piece types where each player can choose.
+This is the initial board. The pieces in columns x and y are the available musketeer piece types where each player can select.
 
-![initial_board](https://i.imgur.com/wOzDfX0.png)
+![initial_board](https://i.imgur.com/yV9l0Sh.png)
 
 ***
 
@@ -19,7 +19,6 @@ This is the initial board. The pieces in columns j and k are the available muske
 White played its first move, selected an Archbishop. This is the beginning of the piece selection phase.   
 `1. j9i9 or Aj9i9 or Ai9`
 
-![board2](https://i.imgur.com/K7DFnxo.png)
 
 ***
 
@@ -27,7 +26,6 @@ White played its first move, selected an Archbishop. This is the beginning of th
 Black selected an Elephant.  
 `1... k4i4 or Ek4i4 or Ei4`
 
-![board3](https://i.imgur.com/uNUPOkr.png)
 
 ***
 
@@ -35,15 +33,12 @@ Black selected an Elephant.
 White selected the piece that was selected by black in the 1st move. This is forced. Can be executed automatically by a GUI.  
 `2. j5i5 or Ej5i5 or Ei5`
 
-![board4](https://i.imgur.com/FYcpjDT.png)
-
 ***
 
 ### Board 5
 Black selected the piece that was selected by white in the 1st move. This is forced. Can be executed automatically by a GUI. This completes the piece selection phase.  
 `2... k0i0 or Ak0i0 or Ai0`
 
-![board5](https://i.imgur.com/tnOHOdx.png)
 
 ***
 
@@ -51,15 +46,11 @@ Black selected the piece that was selected by white in the 1st move. This is for
 White played its Archbishop to rank 0. This is the beginning of gating preparation phase.  
 `3. i9f0 or Ai9f0 or Af0`
 
-![board6](https://i.imgur.com/4eaaoPI.png)
-
 ***
 
 ### Board 7
 Black played its Archbishop to rank 9.  
 `3... i0c9 or Ai0c9 or Ac9`
-
-![board7](https://i.imgur.com/FEKVzCe.png)
 
 ***
 
@@ -67,15 +58,11 @@ Black played its Archbishop to rank 9.
 White played its Elephant to rank 0.  
 `4. i5d0 or Ei5d0 or Ed0`
 
-![board7](https://i.imgur.com/kfkbVJX.png)
-
 ***
 
 ### Board 9
 Black played its Elephant to rank 9. This completes the gating preparation phase.  
 `4... i4e9 or Ei4e9 or Ee9`
-
-![board7](https://i.imgur.com/QXOr7ER.png)
 
 ***
 
