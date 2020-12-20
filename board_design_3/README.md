@@ -13,10 +13,12 @@ This is the initial board. The pieces in columns x and y are the available muske
 
 ![initial_board](https://i.imgur.com/yV9l0Sh.png)
 
+***
+
 
 ### Board 2
-White played its first move, selected an Archbishop. This is the beginning of the piece selection phase. The first piece selected would go to rank 1.
-`1. y5x8 or Ey5x8 or Ex8`
+White played its first move, selected an Archbishop. This is the beginning of the piece selection phase. The first piece selected would go to rank 1.  
+`1. y9y1 or Ay9y1 or Ay1`
 
 
 ## B. Credits
