@@ -25,9 +25,19 @@ White played its first move, selected an Archbishop. This is the beginning of th
 
 ### Board 3
 Black may reply by selecting the Elephant and put it in rank 7.  
-`1... y5x7
+`1... y5x7`
 
 ![b3](https://i.imgur.com/Mf6LH6m.png)
+
+***
+
+### Board 4
+White will own the Elephant here to complete its piece selections, note this is the piece that was selected by Black. Can be automatically executed by the a GUI.
+
+`2. y5y2`
+
+![b4](https://i.imgur.com/1B9Kbzf.png)
+
 
 
 ## B. Credits
